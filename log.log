@@ -1,0 +1,66 @@
+commit 3b24a023e4cee6533f2f4b7269d7893bef710028
+Author: Charlie Truong <charlie.m.truong@gmail.com>
+Date:   Sun Dec 1 16:03:25 2013 -0600
+
+    removed unused images
+
+commit 86c2663c040a6c39a24e3036d70553adacdb64c4
+Author: Charlie Truong <charlie.m.truong@gmail.com>
+Date:   Sun Dec 1 16:01:10 2013 -0600
+
+    changed font color for title and headings
+
+commit 38e6a7420e1d910a22a068b832722594460d7e74
+Author: Charlie Truong <charlie.m.truong@gmail.com>
+Date:   Sun Dec 1 15:55:45 2013 -0600
+
+    changed default font
+
+commit 5b121805da8029afb481a606dbf0d5a049ff04ac
+Author: Charlie Truong <charlie.m.truong@gmail.com>
+Date:   Sun Dec 1 15:50:27 2013 -0600
+
+    modified email font color
+
+commit d87233a1c7047e888cddbe64c2a31e97f3880f1d
+Author: Charlie Truong <charlie.m.truong@gmail.com>
+Date:   Sun Dec 1 15:45:43 2013 -0600
+
+    added border b/w two articles
+
+commit bb23a955614cb83840d3e8bf84db139ce4530382
+Author: Charlie Truong <charlie.m.truong@gmail.com>
+Date:   Sun Dec 1 15:40:57 2013 -0600
+
+    Changed backgrounds and margins
+
+commit 1c7f5df54ed1f7b381f550798f73100e41360bbc
+Author: Charlie Truong <charlie.m.truong@gmail.com>
+Date:   Sun Dec 1 15:10:48 2013 -0600
+
+    Added personal content
+
+commit adafe58bf431ad76d01de960a3aa5581bd21f9a3
+Author: Charlie Truong <charlie.m.truong@gmail.com>
+Date:   Sun Dec 1 11:03:36 2013 -0600
+
+    added personal images
+
+commit b7d6c948a77a2175d31d1b652ad40279aec3b156
+Merge: d0e9a9d b0e15b4
+Author: Charlie Truong <charlie.m.truong@gmail.com>
+Date:   Sat Nov 30 18:04:03 2013 -0600
+
+    Merge branch 'master' of https://github.com/CharlieTruong/dbcpersonalsite
+
+commit d0e9a9d01e153d5979920a6f526083793be91872
+Author: Charlie Truong <charlie.m.truong@gmail.com>
+Date:   Sat Nov 30 18:01:42 2013 -0600
+
+    Added original bakin files
+
+commit b0e15b447399803afadf5a514f276ef6a6f03802
+Author: Charlie Truong <CharlieTruong@users.noreply.github.com>
+Date:   Sat Nov 30 17:54:04 2013 -0600
+
+    Create README.md

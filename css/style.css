@@ -1,0 +1,80 @@
+body{
+	font-family: 'Roboto Condensed', sans-serif;
+	color: #FAF3BC;
+	background: #420600 url('../img/lake.jpg') repeat;
+	background-size: cover;
+}
+
+#mainbody{
+	background: -webkit-linear-gradient(left, red, orange); /* For Safari */
+	background: -o-linear-gradient(left, red, orange); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(left, red, orange); /* For Fx 3.6 to 15 */
+	background: linear-gradient(to right, red, orange); /* Standard syntax (must be last) */
+}
+
+a{
+	color: #FAF3BC;
+	text-decoration: none;
+}
+
+
+
+h1{
+	font-size: 2.000em;
+}
+
+h2{
+	font-size: 1.500em;
+	color: #CCCC00;
+}
+
+
+
+#charlie{
+	border-radius: 200px;
+	margin: 10px;
+}
+
+#title{
+	text-align: center;
+	color: #CCCC00;
+}
+
+#squirrel{
+	border-radius: 200px;
+	margin: 10px;
+	width: 160px;
+	height: auto;
+	float: right;
+}
+
+
+.images{
+	width: 90%;
+	height: auto;
+	border: 8px solid #FAF3BC;
+}
+
+#games .images{
+	width: 100%;
+	height: auto;
+	border: 8px solid #FAF3BC;
+}
+
+
+
+#intro{
+	margin: 50px 0 75px 20px;
+}
+
+#dogs{
+	border-right: solid;
+}
+
+#copyright{
+	border-top: 8px solid #2A0400;
+	padding: 10px 0px;
+	margin: 15px 0px;
+	text-align: center;
+}
+

@@ -31,8 +31,8 @@ h2{
 
 
 #charlie{
-	border-radius: 200px;
-	margin: 10px;
+	border-radius: 12.500em;
+	margin: 3.125%;
 }
 
 #title{
@@ -41,9 +41,9 @@ h2{
 }
 
 #squirrel{
-	border-radius: 200px;
-	margin: 10px;
-	width: 160px;
+	border-radius: 12.500em;
+	margin: 3.125%;
+	width: 50%;
 	height: auto;
 	float: right;
 }
@@ -52,19 +52,19 @@ h2{
 .images{
 	width: 90%;
 	height: auto;
-	border: 8px solid #FAF3BC;
+	border: 0.500em solid #FAF3BC;
 }
 
 #games .images{
 	width: 100%;
 	height: auto;
-	border: 8px solid #FAF3BC;
+	border: 0.500em solid #FAF3BC;
 }
 
 
 
 #intro{
-	margin: 50px 0 75px 20px;
+	margin: 7.58% 0 11.36% 3.30%;
 }
 
 #dogs{
@@ -72,9 +72,9 @@ h2{
 }
 
 #copyright{
-	border-top: 8px solid #2A0400;
-	padding: 10px 0px;
-	margin: 15px 0px;
+	border-top: 0.500em solid #2A0400;
+	padding: 0.625em 0.000em;
+	margin: 1.5% 0;
 	text-align: center;
 }
 

@@ -93,8 +93,97 @@ h2{
 		width: 100%;
 	}
 
-	#squirrel{
+	#squirrel_div,#jordan_div{
 		display: none;
+	}
+
+	#charlie_div{
+		text-align: center;
+		margin: 0;
+	}
+
+	#intro, #title{
+		margin: 0;
+	}
+
+	#dogs, #games{
+		margin: 5% 0;
+	}
+
+	#dogs{
+		border-right: none;
+	}
+
+	#games img{
+		width: 90%;
+	}
+
+
+	body{
+	background: -webkit-linear-gradient(left, red, orange); /* For Safari */
+	background: -o-linear-gradient(left, red, orange); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(left, red, orange); /* For Fx 3.6 to 15 */
+	background: linear-gradient(to right, red, orange); /* Standard syntax (must be last) */	
+	}
+
+	#mainbody{
+	
+	}
+
+}
+
+/*media queries*/
+/*ipad*/
+@media screen and (max-width: 1024px){
+	.grid_1,
+	.grid_2,
+	.grid_3,
+	.grid_4,
+	.grid_5,
+	.grid_6,
+	.grid_7,
+	.grid_8,
+	.grid_9,
+	.grid_10,
+	.grid_11,
+	.grid_12 {
+		width: 100%;
+	}
+
+	#squirrel_div,#jordan_div{
+		display: none;
+	}
+
+	#charlie_div{
+		text-align: center;
+		margin: 0;
+	}
+
+	#intro, #title{
+		margin: 0;
+	}
+
+	#dogs, #games{
+		margin: 5% 0%;
+	}
+
+	#dogs{
+		border-right: none;
+	}
+
+	#games img{
+		width: 90%;
+	}
+
+	body{
+	background: -webkit-linear-gradient(left, red, orange); /* For Safari */
+	background: -o-linear-gradient(left, red, orange); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(left, red, orange); /* For Fx 3.6 to 15 */
+	background: linear-gradient(to right, red, orange); /* Standard syntax (must be last) */	
+	}
+
+	#mainbody{
+	
 	}
 
 }

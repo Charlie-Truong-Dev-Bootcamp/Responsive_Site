@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 492.86 110" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs4">
+  <filter id="filter3819" height="1" width="1" color-interpolation-filters="sRGB" y="0" x="0">
+   <feGaussianBlur id="feGaussianBlur3821" stdDeviation="3.0142857" result="fbSourceGraphic"/>
+   <feColorMatrix id="feColorMatrix3015" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0" result="fbSourceGraphicAlpha" in="fbSourceGraphic"/>
+   <feTurbulence id="feTurbulence3017" baseFrequency="1" seed="0" result="result0" numOctaves="3" type="fractalNoise"/>
+   <feColorMatrix id="feColorMatrix3019" type="saturate" values="0" result="result4"/>
+   <feComposite id="feComposite3021" k4="0" in2="result4" k3="0.5" k2="0.5" k1="1.25" result="result2" in="fbSourceGraphic" operator="arithmetic"/>
+   <feBlend id="feBlend3023" mode="normal" in="result2" in2="fbSourceGraphic" result="result5"/>
+   <feComposite id="feComposite3025" operator="in" result="result3" in2="fbSourceGraphic" in="result5"/>
+  </filter>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0.71428621,-5.2193327)">
+  <rect id="rect3007" height="110" filter="url(#filter3819)" width="492.86" y="5.2193" x="-0.71429" fill="#00F"/>
+ </g>
+ <g id="layer2" transform="translate(0.71428621,-5.2193327)">
+  <text id="text2985" style="letter-spacing:0px;text-anchor:middle;word-spacing:0px;text-align:center;" font-weight="bold" xml:space="preserve" font-size="40px" font-style="normal" font-stretch="normal" font-variant="normal" y="45.21933" x="249.1225" font-family="Trebuchet MS" line-height="125%" fill="#ff2a2a"><tspan id="tspan2987" x="249.1225" y="45.21933">Charlie Truong:</tspan><tspan id="tspan2989" x="249.1225" y="95.21933">Dev Bootcamp Squirrel</tspan></text>
+ </g>
+</svg>

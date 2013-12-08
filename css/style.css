@@ -33,11 +33,15 @@ h2{
 #charlie{
 	border-radius: 12.500em;
 	margin: 3.125%;
+	max-width: 50%;
+}
+
+object {
+	max-width: 100%;
 }
 
 #title{
-	text-align: center;
-	color: #CCCC00;
+	margin: 2% 0;
 }
 
 #squirrel{
@@ -76,8 +80,8 @@ h2{
 }
 
 /*media queries*/
-/*iphone*/
-@media screen and (max-width: 480px){
+/*small resolution*/
+@media screen and (max-width: 650px){
 	.grid_1,
 	.grid_2,
 	.grid_3,
@@ -133,7 +137,7 @@ h2{
 }
 
 /*media queries*/
-/*ipad*/
+/*medium resolution*/
 @media screen and (max-width: 1024px){
 	.grid_1,
 	.grid_2,
@@ -160,6 +164,12 @@ h2{
 	#intro, #title{
 		margin: 0 0 2% 0;
 	}
+
+	#title{
+		text-align: center;
+		width: 100%;
+	}
+
 
 	body{
 	background: -webkit-linear-gradient(left, red, orange); /* For Safari */
